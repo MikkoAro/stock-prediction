@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Stock Forecast</string>
+    <string name="calculate">Calculate</string>
+    <string name="input_hint">Add stock symbol</string>
+    <string name="day">Day</string>
+    <string name="price">Price</string>
+    <string name="current">Current price</string>
+    <string name="forecast">Forecast prices</string>
+    <string name="date">Date</string>
+</resources>
